@@ -1,2 +1,2 @@
 # Football-Leagues-Analysis-2014-15
-An Analysis of the 2014-15 Season of the Top-4 European Leagues
+An analysis of the attacking and defensive prowess of the Top-4 European Football Leagues for the 2014-15 season. The analysis also draws out collations to map out the likelihood of success of the teams in the combined European Champions League. The project consists of 15+ graphical and coefficient based comparisons. The stacks used were Numpy, Pandas, Matplotlib and Seaborn.
